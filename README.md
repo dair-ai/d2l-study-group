@@ -8,7 +8,7 @@ All study sessions will be free and fully-remote. All sessions will be recorded 
 Unlike other study groups, the format (tentative) will be as follows:
 - Chapters will be presented with slides, which will be followed by code walkthroughs 
 - For every session, there will be a segment for discussion and Q&A
-- After every session, we will assign take-home exercises correspoding to the material covered in that session. Solutions should be uploaded to GitHub. (More instructions coming soon!)
+- After every session, we will assign take-home exercises corresponding to the material covered in that session. Solutions should be uploaded to GitHub. (More instructions coming soon!)
 - Before every session, we will provide a list of extra reading material that will be helpful for the upcoming session
 - We plan to have guest lectures and presentations to provide additional practical value to students (TBA)
 - There will be **one final project** which will be done in groups. The groups have to present their work towards the end of the program. (More information coming soon!)
