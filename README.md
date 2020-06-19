@@ -1,7 +1,7 @@
 # Deep Learning Study Group
 
 ### About
-In this free online study program, we will be studying the ["Dive into Deep Learining"](https://d2l.ai/index.html) book by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola. Every week we will teach (remotely) a portion of the book and assign take-home exercises and reading materials. 
+In this free online study program, we will be studying the ["Dive into Deep Learning"](https://d2l.ai/index.html) book by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola. Every week we will teach (remotely) a portion of the book and assign take-home exercises and reading materials. 
 
 All study sessions will be free and fully-remote. All sessions will be recorded and uploaded to [YouTube](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ?view_as=subscriber). 
 
