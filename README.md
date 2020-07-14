@@ -27,7 +27,7 @@ To fully register for this program:
 
 | Chapter | Suggested Readings | Exercises | Live Session | Recording |
 |------|-------|-------|------|-----|
-| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://d2l.ai/chapter_introduction/index.html#exercises) | TBA | TBA |
+| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | TBA | TBA |
 
 
 ### How to Contribute
