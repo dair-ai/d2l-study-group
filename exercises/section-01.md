@@ -11,4 +11,4 @@
 - Please make sure that the link to the submission is *publicly accessible*.
 - You won't receive an actual grade but you we will label your submission as either **completed** or **incomplete**, depending on whether the submission is accepatble or not. Where necessary we will provide feedback and this could help guide completion of the submissions. 
 - Submission deadline: One week after the exercise has been announced. Late submissions will not be checked and won't count towards the percentage needed to obtain a certificate of completion. 
-- Plagiarism is strictly prohibited. If you plagiarize you will be disqualified from obtaining a certificate of completion regardless if you complete the exercises.
+- Plagiarism is strictly prohibited. If you plagiarize at any point in the program you will be disqualified from obtaining a certificate of completion.
