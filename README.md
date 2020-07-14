@@ -25,6 +25,10 @@ To fully register for this program:
 - Make sure to register for the program using the following [link](https://www.meetup.com/dair-ai/events/271394829/) on Meetup.com. You will have to RSVP to the event and then register by clicking on the zoom link. 
 - Ensure that you have joined our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) for more updates on the program
 
+| Chapter | Suggested Readings | Exercises |
+|------|-------|-------|
+| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://d2l.ai/chapter_introduction/index.html#exercises) |
+
 
 ### How to Contribute
 If you are interested to deliver chapters from the book or help as a TA, please reach out to me directly at ellfae@gmail.com.
