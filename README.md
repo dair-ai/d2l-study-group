@@ -16,7 +16,7 @@ Unlike other study groups, the format (tentative) will be as follows:
 ### Instructions
 - Make sure to join our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) (channel: **#d2l-study-group**) for the latest schedule, updates and announcements. 
 - We will take attendance and you will be eligible to receive a **Certificate of Completion** if you complete more than 80% of the exercises. We won't use any kind of grading system. We hope that all submissions of the exercises are true attempts to complete them. We will provide feedback on all submissions to help with completion when needed. 
-- You are also free to audit the course as well
+- You are free to audit the sessions as well.
 
 ### Schedule and Registration
 The program is scheduled to start the first week of August. The complete schedule will be announced soon. We have a max limit for how many participants can attend the program. Make sure to follow the registration steps using the information below.
