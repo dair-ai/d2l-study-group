@@ -1,4 +1,4 @@
-# Section 1: Introduction
+# Chapter 1: Introduction
 
 In this first chapter, you will be focusing on obtaining a good overview of the deep learning field. At this point, we don't recommend you to jump into coding yet. The recommendations below will help you to understand a bit of where the field is and help you understand the motivation behind deep learning methods and its applications. All resources shared below are open and should be accesible to everyone. If you have any issues obtaining any of the resources please open an issue.
 
