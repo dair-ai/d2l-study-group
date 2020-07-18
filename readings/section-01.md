@@ -16,11 +16,7 @@ In this first chapter, you will be focusing on obtaining a good overview of the 
 - [MIT Deep Learning Basic: Introducton and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U) (by Lex fridman)
 - [Neural Networks Foundations](https://youtu.be/FBggC-XVF4M) (by DeepMind)
 - [But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (by 3Blue1Brown)
-- [AI and Games](https://www.youtube.com/c/AIGamesSeries) (youtube channel)
-- [Machine Learning for Optimal Matchmaking](https://www.youtube.com/watch?v=Q8BX0nXfPjY) (GDC presentation)
-- [Robocalypse Now: Using Deep Learning to Combat Cheating in Counter-Strike: Global Offensive](https://www.youtube.com/watch?v=kTiP0zKF9bc) (GDC presentation)
-- [Machine Learning Summit: Ragdoll Motion Matching](https://www.youtube.com/watch?v=JZKaqQKcAnw) (GDC presentation)
-- [Control vs DLSS 2.0: Can 540p Match 1080p Image Quality? Full Ray Tracing On RTX 2060?](https://www.youtube.com/watch?v=YWIKzRhYZm4) (Analysis of new dlss implementation by digital foundry) [accompanying article on eurogamer](https://www.eurogamer.net/articles/digitalfoundry-2020-control-dlss-2-dot-zero-analysis#:~:text=DLSS%20works%20on%20the%20principle,up%20to%20a%20higher%20resolution.)
+- [The Alchemy and Science of Machine Learning for Games](https://www.youtube.com/watch?v=Eim_0jCQW_g) (GDC talk - general overview of ML uses in game development by ubisoft)
 
 ### Code ⚙️
 - We don't recommend any code implementations for this particular section.
