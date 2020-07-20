@@ -15,6 +15,7 @@ In this first chapter, you will be focusing on obtaining a good overview of the 
 - [Neural Networks and Deep Learning - Complete 4 weeks](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (by deeplearning.ai)
 - [MIT Deep Learning Basic: Introducton and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U) (by Lex fridman)
 - [Neural Networks Foundations](https://youtu.be/FBggC-XVF4M) (by DeepMind)
+- [History, motivation, and evolution of Deep Learning](https://www.youtube.com/watch?v=0bMe_vCZo30) (by Yann LeCun)
 - [But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) (by 3Blue1Brown)
 
 ### Code ⚙️
