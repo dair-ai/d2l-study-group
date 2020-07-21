@@ -6,10 +6,12 @@ In this first chapter, you will be focusing on obtaining a good overview of the 
 - [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (by Yann LeCun, Yoshua Bengio, Geoffrey Hinton)
 - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828) (by Jürgen Schmidhuber)
 
+
 ### Articles/Chapters/Slides 📝
 - [Introduction to Deep Learning](https://d2l.ai/chapter_introduction/index.html) (by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola)
 - [Introduction to Deep Learning](http://www.deeplearningbook.org/contents/intro.html) (by Ian Goodfellow and Yoshua Bengio and Aaron Courville)
 - [Deep Learning: Our Miraculous Year 1990-1991](http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html) (by Jürgen Schmidhuber)
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) (by Flood Sung)
 
 ### Videos 📺
 - [Neural Networks and Deep Learning - Complete 4 weeks](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (by deeplearning.ai)
