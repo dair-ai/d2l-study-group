@@ -1,6 +1,6 @@
 # Chapter 1: Introduction
 
-In this first chapter, you will be focusing on obtaining a good overview of the deep learning field. At this point, we don't recommend you to jump into coding yet. The recommendations below will help you to understand a bit of where the field is and help you understand the motivation behind deep learning methods and its applications. All resources shared below are open and should be accesible to everyone. If you have any issues obtaining any of the resources please open an issue.
+In this first chapter, you will be focusing on obtaining a high-level overview of the deep learning field. At this point, we don't recommend you to jump into coding yet. The recommendations below will help you to understand a bit of where the field is and help you understand the motivations behind deep learning methods and their applications. All resources shared below are open and should be accesible to everyone. If you have any issues accessing any of the resources please open an issue.
 
 ### Papers 📄
 - [Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) (by Yann LeCun, Yoshua Bengio, Geoffrey Hinton)
