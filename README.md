@@ -27,7 +27,7 @@ To fully register for this program:
 
 | Chapter | Suggested Readings | Exercises | Live Session (2 options) | Date/Time | Recording |
 |------|-------|-------|------|-----|------|
-| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | [Zoom (requires registration)](https://us02web.zoom.us/meeting/register/tZwtduyuqjsiHNdD0NxIB2A-rSRhaoEjL9Nn), [YouTube Live](https://www.youtube.com/watch?v=xS3_b0BsSes&feature=youtu.be) | August 1, 2020 - 15:00 CEST | TBA |
+| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | [Zoom (requires registration)](https://us02web.zoom.us/meeting/register/tZwtduyuqjsiHNdD0NxIB2A-rSRhaoEjL9Nn), [YouTube Live](https://www.youtube.com/watch?v=xS3_b0BsSes&feature=youtu.be) | August 1, 2020, 15:00 - 17:00 CEST | TBA |
 
 
 ### How to Contribute
