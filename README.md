@@ -22,8 +22,8 @@ Unlike other study groups, the format (tentative) will be as follows:
 The program is scheduled to start the first week of August. The complete schedule will be announced soon. We have a max limit for how many participants can attend the program. Make sure to follow the registration steps using the information below.
 
 To fully register for this program:
-- Make sure to register for the program using the following [link](https://www.meetup.com/dair-ai/events/271394829/) on Meetup.com. You will have to RSVP to the event and then register by clicking on the zoom link. 
-- Ensure that you have joined our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) for more updates on the program
+- Make sure to register for the program using the following [link](https://www.meetup.com/dair-ai/events/271394829/) on Meetup.com. You will have to RSVP to the event and then register by clicking on the zoom link. We have also provided a YouTube live stream for each session.
+- Ensure that you have joined our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) for more updates on the program. You will also find a spreadsheet there to officially enroll in the program and signup to be considered for the Certificate of Completion.
 
 | Chapter | Suggested Readings | Exercises | Live Session (2 options) | Date/Time | Recording |
 |------|-------|-------|------|-----|------|
