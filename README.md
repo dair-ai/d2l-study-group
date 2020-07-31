@@ -31,4 +31,4 @@ To fully register for this program:
 
 
 ### How to Contribute
-If you are interested to deliver chapters from the book or help as a TA, please reach out to me directly at ellfae@gmail.com.
+If you are interested to deliver chapters from the book, help as a TA, or deliver a special lecture, please reach out to me directly at ellfae@gmail.com.
