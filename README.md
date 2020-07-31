@@ -25,9 +25,9 @@ To fully register for this program:
 - Make sure to register for the program using the following [link](https://www.meetup.com/dair-ai/events/271394829/) on Meetup.com. You will have to RSVP to the event and then register by clicking on the zoom link. 
 - Ensure that you have joined our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) for more updates on the program
 
-| Chapter | Suggested Readings | Exercises | Live Session | Recording |
-|------|-------|-------|------|-----|
-| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | TBA | TBA |
+| Chapter | Suggested Readings | Exercises | Live Session (2 options) | Date/Time | Recording |
+|------|-------|-------|------|-----|------|
+| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | [Zoom (requires registration)](https://us02web.zoom.us/meeting/register/tZwtduyuqjsiHNdD0NxIB2A-rSRhaoEjL9Nn), [YouTube Live](https://www.youtube.com/watch?v=xS3_b0BsSes&feature=youtu.be) | August 1, 2020 - 15:00 CEST | TBA |
 
 
 ### How to Contribute
