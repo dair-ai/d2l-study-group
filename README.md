@@ -27,7 +27,7 @@ To fully register for this program:
 
 | Chapter | Suggested Readings | Exercises | Live Session | Date/Time | Slides | Recording |
 |------|-------|-------|------|-----|------|----|
-| Chapter 1 | Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | [Zoom (requires registration)](https://us02web.zoom.us/meeting/register/tZwtduyuqjsiHNdD0NxIB2A-rSRhaoEjL9Nn), [YouTube Live](https://www.youtube.com/watch?v=xS3_b0BsSes&feature=youtu.be) | August 1, 2020, 15:00 - 17:00 CEST | TBA | TBA |
+| Session 1 - Introduction to Deep Learning| Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | [Zoom (requires registration)](https://us02web.zoom.us/meeting/register/tZwtduyuqjsiHNdD0NxIB2A-rSRhaoEjL9Nn), [YouTube Live](https://www.youtube.com/watch?v=xS3_b0BsSes&feature=youtu.be) | August 1, 2020, 15:00 - 17:00 CEST | [PDF](https://github.com/dair-ai/d2l-study-group/blob/master/slides/Session%201%20-%20Introduction%20to%20Deep%20Learning%20-%20Dive%20into%20Deep%20Learning%20Study%20Group.pdf) | [YouTube](https://www.youtube.com/watch?v=xS3_b0BsSes) |
 
 
 ### How to Contribute
