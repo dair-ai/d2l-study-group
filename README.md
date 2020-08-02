@@ -35,29 +35,29 @@ If you are interested to deliver chapters from the book, help as a TA, or delive
 ---
 
 ### Frequently Asked Questions 
-**Q:** How do I register to be considered for the certificate of completion?
+**Q: How do I register to be considered for the certificate of completion?**
 
 **A:** You will need to join our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) and then enroll officially to be consided for the certificate of completion by adding your name to the spreadsheet shared in the #d2l-study-group channel. Look for the pinned message in the channel.
 
 ---
-**Q:** How do I qualify for the certificate of completion?
+**Q: How do I qualify for the certificate of completion?**
 
 **A:** The first step is to enroll in the program as stated above. Then you will need to complete at least 80% of the exercises assigned throughout the program. You will also need to complete the final project which will be done as a group work and presented towards the end of the program. Failure to complete at least 80% of the assignments or engaging in plagiarism will automatically disqualify from being awarded a certificate of completion. 
 
 ---
-**Q:** How are the assignments graded?
+**Q: How are the assignments graded?**
 
 **A:** We don't pass or fail assignments. You will be given either a complete or incomplete status for each assignment. If your assignment is incomplete, we will provide you feedback and will allow you to resubmit but it has to be resubmitted in the period of 48 hours after the original deadline. If you submit the assignments after the deadline they will be labeled as incomplete and we won't provide you feedback for these cases.   
 
 ---
 
-**Q:** Can I audit the sessions of the program?
+**Q: Can I audit the sessions of the program?**
 
 **A:** You are free to audit the sessions without the need to complete the exercises. All sessions will be streamed publicly on both Zoom and YouTube. Schedule information will be provided here and on our [Meetup page](https://www.meetup.com/dair-ai/).  
 
 ---
 
-**Q:** Where do I go for the latest information regarding the program?
+**Q: Where do I go for the latest information regarding the program?**
 
 **A:** All the latest information regarding the program such as schedule, upcoming sessions, and video recodings will be maintained in this repository. If you have any other questions, you can open an issue here or submit your questions in the Slack channel. 
 
