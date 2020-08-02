@@ -47,7 +47,7 @@ If you are interested to deliver chapters from the book, help as a TA, or delive
 ---
 **Q:** How are the assignments graded?
 
-**A:** We don't pass or fail assignments. You will be given either a complete or incomplete status for each assignment. If your assignment is incomplete, we will provide you feedback and will allow you to resubmit. If you submit the assignments after the deadline they will be labeled as incomplete and we won't provide you feedback for these cases.   
+**A:** We don't pass or fail assignments. You will be given either a complete or incomplete status for each assignment. If your assignment is incomplete, we will provide you feedback and will allow you to resubmit but it has to be resubmitted in the period of 48 hours after the original deadline. If you submit the assignments after the deadline they will be labeled as incomplete and we won't provide you feedback for these cases.   
 
 ---
 
@@ -59,7 +59,7 @@ If you are interested to deliver chapters from the book, help as a TA, or delive
 
 **Q:** Where do I go for the latest information regarding the program?
 
-**A:** All the latest information regarding the program such as schedule, upcoming sessions, and video recodings will be maintained in this repository. 
+**A:** All the latest information regarding the program such as schedule, upcoming sessions, and video recodings will be maintained in this repository. If you have any other questions, you can open an issue here or submit your questions in the Slack channel. 
 
 ---
 
