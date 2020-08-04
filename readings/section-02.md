@@ -1,11 +1,6 @@
 # Chapter 1: Deep Learning Preliminaries
 In this chapter, you will be covering a few prelinaries that will help you develop basic skills needed to get started with deep learning. Some of these important preliminaries include data manipulation, data processing, linear algebra, calculus, automatic differentiation, and probability.
 
-## Data Manipulation and Data Processing
-- TODO: Kaggle notebooks
-
----
-
 ## Linear Algebra and Calculus
 
 
@@ -31,8 +26,7 @@ In this chapter, you will be covering a few prelinaries that will help you devel
 - [Dive into Deep Learning](https://d2l.ai/index.html) (by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola)
 
 ---
-## Probability
-
+## Probability and Statistics
 
 ### Articles/Chapters/Slides 📝
 - [Deep Learning - Probability and Information Theory](https://www.deeplearningbook.org/contents/prob.html) (by Ian Goodfellow and Yoshua Bengio and Aaron Courville)
@@ -40,5 +34,10 @@ In this chapter, you will be covering a few prelinaries that will help you devel
 ### Code ⚙️
 - [Dive into Deep Learning - Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) (by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola)
 
+### Recommended Books 📚
+- [Elements of Statistics](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) (Trevor Hastie, Robert Tibshirani, Jerome Friedman)
 
+---
+## Data Manipulation and Data Processing
+- TODO: Kaggle notebooks
 
