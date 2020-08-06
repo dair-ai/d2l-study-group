@@ -48,5 +48,5 @@ In this chapter, you will be covering a few prelinaries that will help you devel
 
 ---
 ## Data Manipulation and Data Processing
-- TODO: Kaggle notebooks
+- TBA
 
