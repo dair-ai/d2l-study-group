@@ -25,10 +25,10 @@ To fully register for this program:
 
 **All dates below are tentative and subject to change.**
 
-| Chapter | Suggested Readings | Exercises | Live Session | Date/Time | Slides | Recording |
+| Chapter | Suggested Readings | Exercises | Live Session | Date/Time | Slides/Notebook | Recording |
 |------|-------|-------|------|-----|------|----|
 | Session 1 - Introduction to Deep Learning| Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-01.md) | Complete the list [here](https://github.com/dair-ai/d2l-study-group/blob/master/exercises/section-01.md) | [Zoom (requires registration)](https://us02web.zoom.us/meeting/register/tZwtduyuqjsiHNdD0NxIB2A-rSRhaoEjL9Nn), [YouTube Live](https://www.youtube.com/watch?v=xS3_b0BsSes&feature=youtu.be) | August 1, 2020, 15:00 - 17:00 CEST | [PDF](https://github.com/dair-ai/d2l-study-group/blob/master/slides/Session%201%20-%20Introduction%20to%20Deep%20Learning%20-%20Dive%20into%20Deep%20Learning%20Study%20Group.pdf) | [YouTube](https://www.youtube.com/watch?v=xS3_b0BsSes) |
-| Session 2 - Preliminaries| Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-02.md) | TBA | [Zoom](https://us02web.zoom.us/j/84658372189?pwd=am9lY3pHVHhCRGVuSnJDZmVDUHVvQT09) (Check Slack group for password), [YouTube Live](https://youtu.be/RyNM1PdgFUQ) | August 15, 2020, 15:00 - 17:00 CEST | TBA | TBA |
+| Session 2 - Preliminaries| Find readings [here](https://github.com/dair-ai/d2l-study-group/blob/master/readings/section-02.md) | NA| [Zoom](https://us02web.zoom.us/j/84658372189?pwd=am9lY3pHVHhCRGVuSnJDZmVDUHVvQT09) (Check Slack group for password), [YouTube Live](https://youtu.be/RyNM1PdgFUQ) | August 15, 2020, 15:00 - 17:00 CEST | [Colab Notebook](https://colab.research.google.com/drive/1a_1pTRPToTXMuLDxzEbdsGTws_AXOY4U?usp=sharing) | [YouTube](https://youtu.be/RyNM1PdgFUQ) |
 | Session 3 - Linear Neural Networks| TBA| TBA | TBA | August 29, 2020, 15:00 - 17:00 CEST | TBA | TBA |
 | Session 4 - Multilayer Perceptrons| TBA| TBA | TBA | September 12, 2020, 15:00 - 17:00 CEST | TBA | TBA |
 | Session 5 - Deep Learning Computation| TBA| TBA | TBA | September 12, 2020, 15:00 - 17:00 CEST | TBA | TBA |
