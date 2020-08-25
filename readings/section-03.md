@@ -14,6 +14,7 @@ In this chapter, we will learn how to cast linear and softmax regression as line
 
 ### Code ⚙️
 - [Dive into Deep Learning - Linear Neural Networks](https://d2l.ai/chapter_linear-networks/index.html) (by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola)
+- [Linear regression explanation and implementation in numpy](https://www.simonwardjones.co.uk/posts/linear_regression/) (by Simon Ward-Jones)
 
 ### Recommended Books 📚
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) (by Shai Shalev-Shwartz and Shai Ben-David)
