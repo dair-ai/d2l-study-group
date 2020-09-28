@@ -14,14 +14,14 @@ Unlike other study groups, the format (tentative) will be as follows:
 - There will be **one final project** which will be done in groups. The groups have to present their work towards the end of the program. (More information coming soon!)
 
 ### Instructions
-- Make sure to join our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-hpz8d7xx-oLt_G0sdWyac3AB_G_gy2g) (channel: **#d2l-study-group**) for the latest schedule, updates and announcements.
+- Make sure to join our Slack group(channel: **#d2l-study-group**) for the latest schedule, updates and announcements. Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an invite to our Slack group.
 - You will be eligible to receive a **Certificate of Completion** if you complete more than 80% of the exercises. In addition, you must complete and present your final project to be eligible for the certificate. We won't use any kind of grading system and we will just mark the assignments as either complete or incomplete. We hope that all submissions of the exercises are true attempts to complete them. We will provide feedback on all submissions to help with completion when needed.
 - You are free to audit the sessions as well.
 
 ### Schedule and Registration
 
 To fully register for this program:
-- Ensure that you have joined our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-hpz8d7xx-oLt_G0sdWyac3AB_G_gy2g) for more updates on the program. You will also find a spreadsheet there to officially enroll in the program and signup to be considered for the Certificate of Completion.
+- Ensure that you have joined our Slack group for more updates on the program. You will also find a spreadsheet there to officially enroll in the program and signup to be considered for the Certificate of Completion.
 
 **All dates below are tentative and subject to change.**
 
