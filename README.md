@@ -57,7 +57,7 @@ If you are interested to deliver chapters from the book, help as a TA, or delive
 ### Frequently Asked Questions
 **Q: How do I register to be considered for the certificate of completion?**
 
-**A:** You will need to join our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g) and then enroll officially to be consided for the certificate of completion by adding your name to the spreadsheet shared in the #d2l-study-group channel. Look for the pinned message in the channel.
+**A:** You will need to join our Slack group and then enroll officially to be consided for the certificate of completion by adding your name to the spreadsheet shared in the #d2l-study-group channel. Look for the pinned message in the channel.
 
 ---
 **Q: How do I qualify for the certificate of completion?**
