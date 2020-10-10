@@ -34,18 +34,18 @@ To fully register for this program:
 | Session 5 - Deep Learning Computation| TBA | - | - | September 24, 2020, 15:00 - 17:00 CEST | [Notebook](https://colab.research.google.com/drive/15KjalW-DIHPyyqPx4YFuEkmXJkwFINjH?usp=sharing) | [YouTube](https://youtu.be/Sbo30zbquYs) |
 | Session 6 - Convolutional Neural Networks| -| TBA | [Zoom - check Slack channel for password](https://us02web.zoom.us/j/82395300378?pwd=QnpKcWJ0VFBpWFlPTTdpN25JSGpKZz09), [YouTube Live](https://youtu.be/9VU4QpHAD5U) | September 26, 2020, 15:00 - 17:00 CEST | TBA | TBA |
 | Session 7 - Modern Convolutional Neural Networks| - | TBA | [Zoom (check Slack channel for password)](https://us02web.zoom.us/j/82201914115?pwd=SGJibjRUVEtUVlFyb2xTRU5qR3N5UT09), [YouTube Live](https://youtu.be/57PBRdG99aA) | October 3, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 8 - Recurrent Neural Networks| TBA| TBA | TBA | October 10, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 9 - Modern Recurrent Neural Networks| TBA| TBA | TBA | October 17, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 10 - Attention Mechanism| TBA| TBA | TBA | October 31, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 11 - Optimization Algorithms| TBA| TBA | TBA | November 14, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 12 - Computational Performance| TBA| TBA | TBA | November 28, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 13 - Computer Vision| TBA| TBA | TBA | December 12, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 14 (Part 1) - Natural Language Processing: Pretraining| TBA| TBA | TBA | December 19, 2020, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 14 (Part 2) - Project Announcement| TBA | TBA | TBA | December 19, 2020, 17:00 - 18:00 CEST | TBA | TBA |
-| Session 15 - Natural Language Processing: Applications| TBA| TBA | TBA | January 09, 2021, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 16 - Generative Adversarial Networks| TBA| TBA | TBA| January 23, 2021, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 17 - Recommender Systems| TBA| TBA | TBA| February 06, 2021, 15:00 - 17:00 CEST | TBA | TBA |
-| Session 18 - Final Projects Presentation | TBA| TBA | TBA| February 20, 2021, 15:00 - 17:00 CEST | TBA | TBA |
+| Session 8 - Recurrent Neural Networks| TBA| TBA | TBA | TBA| TBA | TBA |
+| Session 9 - Modern Recurrent Neural Networks| TBA| TBA | TBA | TBA | TBA | TBA |
+| Session 10 - Attention Mechanism| TBA| TBA | TBA | TBA| TBA | TBA |
+| Session 11 - Optimization Algorithms| TBA| TBA | TBA | TBA | TBA | TBA |
+| Session 12 - Computational Performance| TBA| TBA | TBA | TBA | TBA | TBA |
+| Session 13 - Computer Vision| TBA| TBA | TBA | TBA| TBA | TBA |
+| Session 14 (Part 1) - Natural Language Processing: Pretraining| TBA| TBA | TBA | TBA| TBA | TBA |
+| Session 14 (Part 2) - Project Announcement| TBA | TBA | TBA | TBA | TBA | TBA |
+| Session 15 - Natural Language Processing: Applications| TBA| TBA | TBA | TBA | TBA | TBA |
+| Session 16 - Generative Adversarial Networks| TBA| TBA | TBA| TBA | TBA | TBA |
+| Session 17 - Recommender Systems| TBA| TBA | TBA| TBA | TBA | TBA |
+| Session 18 - Final Projects Presentation | TBA| TBA | TBA| TBA | TBA | TBA |
 
 
 
